@@ -1,5 +1,6 @@
 # Face_detection
 HW of Artificial intellegence.
+
 Practice using adaboost algorithm.
 Select some weak classifiers to combine a strong classifier.
 
